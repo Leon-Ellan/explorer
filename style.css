@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 ul {
   list-style: none;
 }
@@ -21,9 +22,8 @@ body * {
 }
 
 header {
-  padding-top: 32;
+  padding-top: 32px;
   height: calc(120px + 32px);
-  margin-top: 32px;
 }
 
 header div {
